@@ -1,0 +1,13 @@
+C:\Users\kadir\Desktop\KulupUyeFormu\KulupUyeFormu\KulupUyeFormu\bin\Debug\KulupUyeFormu.exe.config
+C:\Users\kadir\Desktop\KulupUyeFormu\KulupUyeFormu\KulupUyeFormu\bin\Debug\KulupUyeFormu.exe
+C:\Users\kadir\Desktop\KulupUyeFormu\KulupUyeFormu\KulupUyeFormu\bin\Debug\KulupUyeFormu.pdb
+C:\Users\kadir\Desktop\KulupUyeFormu\KulupUyeFormu\KulupUyeFormu\obj\Debug\KulupUyeFormu.csproj.AssemblyReference.cache
+C:\Users\kadir\Desktop\KulupUyeFormu\KulupUyeFormu\KulupUyeFormu\obj\Debug\KulupUyeFormu.Form1.resources
+C:\Users\kadir\Desktop\KulupUyeFormu\KulupUyeFormu\KulupUyeFormu\obj\Debug\KulupUyeFormu.Properties.Resources.resources
+C:\Users\kadir\Desktop\KulupUyeFormu\KulupUyeFormu\KulupUyeFormu\obj\Debug\KulupUyeFormu.csproj.GenerateResource.cache
+C:\Users\kadir\Desktop\KulupUyeFormu\KulupUyeFormu\KulupUyeFormu\obj\Debug\KulupUyeFormu.csproj.CoreCompileInputs.cache
+C:\Users\kadir\Desktop\KulupUyeFormu\KulupUyeFormu\KulupUyeFormu\obj\Debug\KulupUyeFormu.exe
+C:\Users\kadir\Desktop\KulupUyeFormu\KulupUyeFormu\KulupUyeFormu\obj\Debug\KulupUyeFormu.pdb
+C:\Users\kadir\Desktop\KulupUyeFormu\KulupUyeFormu\KulupUyeFormu\bin\Debug\Guna.UI2.dll
+C:\Users\kadir\Desktop\KulupUyeFormu\KulupUyeFormu\KulupUyeFormu\obj\Debug\KulupUyeFormu.Form2.resources
+C:\Users\kadir\Desktop\KulupUyeFormu\KulupUyeFormu\KulupUyeFormu\obj\Debug\KulupUyeFormu.csproj.CopyComplete

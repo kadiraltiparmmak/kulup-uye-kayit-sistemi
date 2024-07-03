@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KulupUyeFormu", "KulupUyeFormu\KulupUyeFormu.csproj", "{B3C207D7-2174-4108-925F-845926653244}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Kulüp Üye Kayıt Formu", "Kulüp Üye Kayıt Formu\Kulüp Üye Kayıt Formu.vdproj", "{AAA41DAE-DF61-4959-85DC-525BB28D430C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3C207D7-2174-4108-925F-845926653244}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3C207D7-2174-4108-925F-845926653244}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3C207D7-2174-4108-925F-845926653244}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3C207D7-2174-4108-925F-845926653244}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAA41DAE-DF61-4959-85DC-525BB28D430C}.Debug|Any CPU.ActiveCfg = Debug
+		{AAA41DAE-DF61-4959-85DC-525BB28D430C}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AC9581BF-7ABF-4440-BCF9-812872442D17}
+	EndGlobalSection
+EndGlobal

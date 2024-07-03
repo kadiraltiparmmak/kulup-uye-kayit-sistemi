@@ -1,0 +1,1 @@
+Hocam setup sırasında bilgisayarın c: klasöründen riskli izinler istiyor, o yüzden dosya konumunu c: olarak ayarlamadım. Bu sebepden dolayı setup olarak kurarsanız program çalışmayabilir.

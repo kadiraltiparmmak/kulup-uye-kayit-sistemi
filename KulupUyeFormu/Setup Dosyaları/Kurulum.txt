@@ -1,0 +1,1 @@
+Bulunduğunuz klasördeki setup.exe yi çalıştırıp kurulumu tamamlayabilirsiniz.
